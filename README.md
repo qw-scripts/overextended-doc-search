@@ -1,4 +1,4 @@
-# VSCode Documentation Search
+# VSCode Overextended Documentation Search
 
 Just choose a resource, search for the documentation you are looking for and it will open in your favorite browser
 
